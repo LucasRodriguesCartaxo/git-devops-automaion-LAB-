@@ -1,0 +1,3 @@
+nome idade
+lucas 22
+padoru 23
