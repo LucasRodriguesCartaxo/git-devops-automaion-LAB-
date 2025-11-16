@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Opcional, se usar tfvars
+*.tfvars
+
+# Scripts locais (se não quiser versionar)
+get_helm.sh
